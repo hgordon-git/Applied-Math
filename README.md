@@ -6,3 +6,12 @@ The python scripts are used for my number analysis. I partition numbers into seg
 
 
 The next set of prorgams are Matlab files that model fractal set variations (including Mandelbrot and Julia), cellular automata, and chaotic mathematical behavior. The write-ups are certainly not my cleanest, but they are there nonetheless. 
+
+
+Project 1 Deals with fractal patterns that have beautiful symmetries and provides a simulation opportunity 
+
+Project 2 Deals with estimating fractal dimensions of various mathematical fractal sequences 
+
+Project 3 Deals with Cellular Automata 
+
+Some of the files written were not written by myself but recieved from the Professor of the class
